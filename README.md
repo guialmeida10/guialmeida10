@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Trabalho no TI da Prefeitura de Oliveira-MG, além disso desenvolvo um sistema em C++ com MySQL. Curso Engenharia da Computação e aplico o que aprendo nos meus projetos.<br><br>🤝 Procuro colaborar em projetos com C++, JavaScript, HTML, CSS, banco de dados e redes neurais, especialmente em visão computacional e sistemas.<br><br>🙋 Busco melhorar minhas habilidades com banco de dados e integração entre sistemas.<br><br>🌱 Estudo algoritmos em C++, JavaScript e integração com MySQL.<br><br>💬 Fique à vontade para perguntar sobre meus projetos ou minha experiência na área.<br><br>📫 Me encontre em:<br>guialmeida10.github.io/GuiLinks/
+🛠️ Trabalho no TI da Prefeitura de Oliveira-MG, além disso desenvolvo um sistema em C++ com MySQL. Curso Engenharia da Computação e aplico o que aprendo nos meus projetos.<br><br>🤝 Procuro colaborar em projetos com C++, JavaScript, HTML, CSS, banco de dados e redes neurais, especialmente em visão computacional e sistemas.<br><br>🙋 Busco melhorar minhas habilidades com banco de dados e integração entre sistemas.<br><br>🌱 Estudo algoritmos em C++, JavaScript e integração com MySQL.<br><br>💬 Fique à vontade para perguntar sobre meus projetos ou minha experiência na área.<br><br>📫 Me encontre em:<br> https://guialmeida10.github.io/GuiLinks/
 
 
 ## 🌐 Socials:

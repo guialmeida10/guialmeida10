@@ -30,13 +30,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guialmeida10&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guialmeida10&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmeida10&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=guialmeida10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=guialmeida10&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmeida10&layout=compact&langs_count=8&theme=tokyonight)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guialmeida10&theme=onedark&no-frame=true&margin-w=10&row=1)
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 

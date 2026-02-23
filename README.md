@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guialmeida10&theme=onedark&no-frame=true&margin-w=10&row=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmeida10&layout=donut&theme=tokyonight)
 
 ---
 ### ✍️ Random Dev Quote
